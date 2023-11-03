@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "description": "React + Typescript + Vite - Starter",
-  "author": "Yony Calsin",
+  "author": "bitcooker",
   "scripts": {
     "lib:ts": "tsc",
     "lib:es": "eslint src --ignore-path .gitignore --max-warnings=0",

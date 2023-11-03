@@ -6,7 +6,7 @@ function App() {
       <h1>React + Typescript + Vite - Starter</h1>
       <p>
         <i>
-          Created By <a href="https://www.yonycalsin.com/">Yony Calsin</a>
+          Created By <a href="https://github.com/bitcooker/">bitcooker</a>
         </i>
       </p>
     </div>

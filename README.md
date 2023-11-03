@@ -1,4 +1,4 @@
-# @yonycalsin/react-typescript-vite-starter
+# @bitcooker/react-typescript-vite-starter
 
 This is a [ReactJS](https://reactjs.org) + [Typescript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev) starter.
 
@@ -49,4 +49,4 @@ pnpm run test:unit
 
 ### License
 
-©2023 Yony Calsin. All Rights Reserved.
+©2023 bitcooker. All Rights Reserved.
